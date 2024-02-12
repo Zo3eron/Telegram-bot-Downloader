@@ -23,6 +23,13 @@
 		</dependency>
 
 		<dependency>
+			<groupId>org.telegram</groupId>
+			<artifactId>Bots</artifactId>
+			<version>6.7.0</version>
+			<type>pom</type>
+		</dependency>
+
+		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
 			<optional>true</optional>
